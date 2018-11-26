@@ -1,0 +1,52 @@
+body{
+    background:white;
+}
+header{
+    display: flex;
+}
+.google{
+   margin-top: 40px; 
+   margin-left: 40px;
+}
+p{
+    border-radius: 50%;
+    color: white;
+    background-color: #ff3a21;
+    width: 30px;       
+    text-align: center;
+    margin-top: 40px;
+    position: absolute;
+    right: 40px;
+    top: 40px;
+}
+  .search-btn{
+      background-color: rgb(233, 229, 229);
+                 font-size: 20px;
+         border-radius: 60px;
+         display: flex;
+         align-content: center;
+         padding-left: 5px; 
+         position: absolute;
+         margin-top: 7vw;
+         margin-left: 270px;
+         width: 400px;
+         
+         
+        
+  }
+  .icons{
+       margin-left: 10vw;
+       margin-top:17vw;
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+} 
+
+.bg{
+    
+    position: absolute;
+    bottom:0px;
+    left: 0px;
+    right:0px;
+    width: 100%; 
+}
